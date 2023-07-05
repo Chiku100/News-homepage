@@ -1,0 +1,26 @@
+#focus{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+
+}
+body{
+    margin: 5rem 14rem;
+}
+.info{
+    padding: 4rem 2rem;
+}
+.btn-secondary{
+    background-color: orange;
+    border: none;
+    width: 12rem;
+}
+
+.container, .container-md, .container-sm {
+    max-width:  100%;
+}
+hr {
+ 
+    border:2px solid rgb(242, 237, 237);
+}
